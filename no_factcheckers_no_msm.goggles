@@ -4,8 +4,9 @@
 ! author: Bloggs Goggs
 ! avatar: #FF5133
 
-$discard,site=PolitiFact.com
-$discard,site=Snopes.com
+$discard,site=politifact.com
+$discard,site=snopes.com
+$discard,site=reuters.com
 $discard,site=bbc.com
 $discard,site=theguardian.com
 $discard,site=bbc.co.uk
