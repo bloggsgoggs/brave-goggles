@@ -6,7 +6,12 @@
 
 $discard,site=politifact.com
 $discard,site=snopes.com
+$discard,site=quackwatch.com
+$discard,site=fullfact.org
+
 $discard,site=reuters.com
 $discard,site=bbc.com
 $discard,site=theguardian.com
 $discard,site=bbc.co.uk
+$discard,site=theconversation.com
+$discard,site=time.com
