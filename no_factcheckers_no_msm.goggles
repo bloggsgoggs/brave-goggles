@@ -8,6 +8,7 @@ $discard,site=politifact.com
 $discard,site=snopes.com
 $discard,site=quackwatch.com
 $discard,site=fullfact.org
+$discard,site=rationalwiki.org
 
 $discard,site=reuters.com
 $discard,site=bbc.com
